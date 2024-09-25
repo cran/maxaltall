@@ -1,0 +1,7 @@
+4b022fc5351bcbe6d0ab3d79f3e6cf2a *DESCRIPTION
+c87b06d5b0bd5b7866d579985f021192 *NAMESPACE
+15ff57d79e3ae1e7b7acfc75351ca93b *R/globals.R
+fbf835f09023b31c4f1deaf9d839a96e *R/max_altall.R
+f4e8e29b83963a29330ef45b22291294 *inst/extdata/example_aa.state
+7c1e97714f4b888f07f980fea8cad7c6 *inst/extdata/example_nuc.state
+85e9561fa25dba156314aee764410dcd *man/max_altall.Rd
